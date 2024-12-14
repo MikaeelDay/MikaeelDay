@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikaeelDay
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javaScript AJAX
-- 💞️ I’m looking to collaborate on Front-end
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on Back-end
 - 📫 How to reach me : mikaeelrais@gmail.com
 
 <!---
