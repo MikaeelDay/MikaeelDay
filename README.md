@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @MikaeelDay
-- 👀 I’m interested in programming
+Passionate about programming and the world of computers.  
+I've been working with Python for over three years.  
+Currently exploring Python's potential in AI and machine learning.
+
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Back-end
 - 📫 How to reach me : mikaeelrais@gmail.com
